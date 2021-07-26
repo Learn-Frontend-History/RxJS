@@ -1,3 +1,6 @@
 [submodule "0-GetStarted"]
 	path = 0-GetStarted
 	url = https://github.com/Learn-Frontend-History/RxJS-GetStarted
+[submodule "1-Observables"]
+	path = 1-Observables
+	url = https://github.com/Learn-Frontend-History/RxJS-Observables
