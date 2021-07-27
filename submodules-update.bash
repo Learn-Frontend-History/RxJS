@@ -2,7 +2,7 @@
 
 git submodule foreach git fetch template
 
-git submodule foreach git merge template/main
+git submodule foreach git rebase template/main
 
 git submodule foreach git push origin
 
