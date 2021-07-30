@@ -4,3 +4,9 @@
 [submodule "1-Observables"]
 	path = 1-Observables
 	url = https://github.com/Learn-Frontend-History/RxJS-Observables
+[submodule "2-Observer"]
+	path = 2-Observer
+	url = https://github.com/Learn-Frontend-History/RxJS-Observer.git
+[submodule "3-Operators"]
+	path = 3-Operators
+	url = https://github.com/Learn-Frontend-History/RxJS-Operators.git
